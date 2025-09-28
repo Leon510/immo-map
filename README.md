@@ -247,7 +247,7 @@ NEXT_PUBLIC_MAP_CENTER="52.5200,13.4050"
 
 ## 🤝 Contributing
 
-Wir freuen uns über Contributions! 🎉
+Ich freue mich über eure Contributions! 🎉
 
 ### Wie beitragen?
 1. 🍴 Fork das Repository
@@ -264,12 +264,12 @@ Wir freuen uns über Contributions! 🎉
 
 ## 📄 Lizenz
 
-Dieses Projekt steht unter der **MIT Lizenz**. Siehe [LICENSE](LICENSE) für Details.
+Dieses Projekt steht unter der **CC BY-NC 4.0 Lizenz**. Siehe [LICENSE](LICENSE) für Details.
 
 ---
 
 <div align="center">
-  <p>Entwickelt mit ❤️ für die deutsche Immobilienbranche</p>
+  <p>Entwickelt mit ❤️</p>
   <p>
     <a href="#top">⬆️ Nach oben</a> •
     <a href="https://github.com/Leon510/immo-map/issues">🐛 Bug melden</a> •  
