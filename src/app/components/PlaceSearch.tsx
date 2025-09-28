@@ -40,7 +40,7 @@ export default function PlaceSearch({ onSelect }:{ onSelect:(bbox:[number,number
             onChange={e=>setQ(e.target.value)} 
             onKeyPress={handleKeyPress}
             placeholder="Ort, PLZ, Stadt suchen..." 
-            className="w-full pl-10 pr-4 py-3 text-sm border-0 focus:outline-none focus:ring-0"
+            className="w-full pl-10 pr-4 py-3 text-sm border-0 focus:outline-none focus:ring-0 text-gray-700 placeholder-gray-400"
           />
         </div>
         <button 
